@@ -1,0 +1,27 @@
+{
+  "name": "ereminmdev/yii2-hotwired-turbo",
+  "description": "Hotwired-turbo assert for Yii framework.",
+  "keywords": [
+    "yii2",
+    "Hotwired Turbo"
+  ],
+  "homepage": "https://bitbucket.org/ereminmdev/yii2-hotwired-turbo",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Eremin",
+      "email": "ereminmdev@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0",
+    "npm-asset/hotwired--turbo": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "ereminmdev\\yii2\\hotwired_turbo\\": ""
+    }
+  }
+}
