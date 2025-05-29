@@ -5,7 +5,7 @@
     "yii2",
     "Hotwired Turbo"
   ],
-  "homepage": "https://bitbucket.org/ereminmdev/yii2-hotwired-turbo",
+  "homepage": "https://github.com/ereminmdev/yii2-hotwired-turbo",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
